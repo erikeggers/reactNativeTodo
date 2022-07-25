@@ -2,6 +2,7 @@ import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
 import {COLORS} from '../assets/colors';
 
+// Zero state component that shows when there are no todos
 export const TodoZeroState = () => {
   return (
     <View style={styles.container}>

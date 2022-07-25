@@ -9,6 +9,7 @@ import {
 import {IAuth} from '../types';
 import {COLORS} from '../assets/colors';
 
+// Authentication component
 export const Auth = ({onAuthenticate}: IAuth) => {
   return (
     <SafeAreaView style={styles.container}>
