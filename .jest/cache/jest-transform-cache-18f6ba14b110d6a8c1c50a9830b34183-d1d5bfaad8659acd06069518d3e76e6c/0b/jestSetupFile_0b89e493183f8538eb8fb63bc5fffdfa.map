@@ -1,0 +1,1 @@
+{"version":3,"names":["mock","mockAsyncStorage"],"sources":["jestSetupFile.js"],"sourcesContent":["import mockAsyncStorage from '@react-native-async-storage/async-storage/jest/async-storage-mock';\n\njest.mock('@react-native-async-storage/async-storage', () => mockAsyncStorage);\n"],"mappings":"AAEA,cAAKA,IAAL,CAAU,2CAAV,EAAuD;EAAA,OAAMC,yBAAN;AAAA,CAAvD;;;;AAFA"}
