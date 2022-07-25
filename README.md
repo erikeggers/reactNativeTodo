@@ -5,7 +5,7 @@
 
 A simple React Native Todo app. 
 
-### Prerequisites
+## Prerequisites
 
 [Follow the setup guide for React Native CLI (iOS and Android)](https://reactnative.dev/docs/environment-setup)
 
